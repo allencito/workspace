@@ -1,0 +1,89 @@
+* {
+  padding: 10px 10px 10px 10px;
+}
+
+.b1 {
+  color: black;
+  /*margin: auto;*/
+  /*width: 40%;*/
+  font-family: helvetica;
+  margin: 10px 10px 10px 10px;
+}
+
+body#b2 {
+  color: black;
+  width: 70%;
+  text-align: left;
+  margin: 10px 10px 10px 60px;
+
+}
+
+h1 {
+ font-size:33px;
+ text-align: center;
+
+}
+
+h2 {
+ font-size:28px;
+ text-align: center;
+
+}
+
+h3 {
+ font-size:24px;
+ text-align: center;
+
+}
+
+h3#experience {
+ font-size:24px;
+ text-align: left;
+
+}
+h4 {
+ font-size:20px;
+ text-align: center;
+
+}
+
+h4#portfolio {
+ font-size:20px;
+ text-align: left;
+
+}
+
+p {
+  font-family: helvetica;
+  margin: 40px;
+  padding: 10px;
+  text-align: center;
+  font-size:17px;
+
+}
+
+p#p2 {
+  font-family: helvetica;
+  font-size:17px;
+  margin: 0px;
+  padding: 10px;
+  text-align: left;
+
+
+}
+
+img {
+
+  border: 1px;
+  border-color: black;
+  display: block;
+    
+}
+
+hr {
+  color: black;
+  border: solid;
+  /*width: 300px;*/
+  padding: 1px;
+}
+ 
